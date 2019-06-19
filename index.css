@@ -1,0 +1,41 @@
+
+.site_logo{
+    width: 100%;
+}
+.affix {
+      top: 0;
+      width: 100%;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+#mainbody{
+    margin-top: 0px;
+}
+#lock{
+    color: green;
+}
+#user{
+    color: blue;
+}
+
+#signal{
+    color: blue;
+}
+
+.b1 i{
+    color: limegreen;
+}
+.b2 i{
+    color: blue;
+}
+.b3 i{
+    color: #0088cc;
+}
+.b4 i{
+    color: #0084b4;
+}
+.b5 i{
+    color: brown;
+}
